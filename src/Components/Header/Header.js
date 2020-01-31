@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Header.module.css';
-import Times from '../../config'
+import Times from '../../config/time'
 
 const { 
     mainHeader,

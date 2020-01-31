@@ -1,5 +1,16 @@
 .mainFooter {
-    height: 300px;
+    height: 200px;
     background: url('../../assets/footer.png');
     background-position: center;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.footerLinks {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
