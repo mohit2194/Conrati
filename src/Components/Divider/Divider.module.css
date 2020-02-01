@@ -1,0 +1,9 @@
+.dividerVertical {
+    border-bottom: 1px solid #eee;
+    margin: 20px 0;
+}
+
+.dividerHorizontal {
+    border-right: 1px solid #eee;
+    margin: 0 20px;
+}
