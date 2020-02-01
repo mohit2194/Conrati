@@ -1,3 +1,7 @@
+import LinkedinIcon from '../assets/SocialLinkIcons/social_linkedin.png';
+import FacebookIcon from '../assets/SocialLinkIcons/social_facebook.png';
+import TwitterIcon from '../assets/SocialLinkIcons/social_twitter.png';
+import YoutubeIcon from '../assets/SocialLinkIcons/social_youtube_default.png';
 const lists = {
     listOne : {
         Header: 'Company',
@@ -23,6 +27,17 @@ const lists = {
             'Code of Conduct'
         ]
 
+    },
+
+    listFour : {
+        HeaderOne: 'Connect With Us',
+        HeaderTwo: 'Copyright Conrati 2018',
+        lists: [
+            LinkedinIcon,
+            FacebookIcon,
+            TwitterIcon,
+            YoutubeIcon
+        ]
     }
 }
 
